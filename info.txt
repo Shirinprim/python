@@ -1,0 +1,4 @@
+the programs are now running  
+You need to instal gejson  and folium 
+the file called gmapsintro centers a map on Dehi and show some rndom points as heatmap.
+The fie called uspop shows a map of usa plus the popuation of each state on houver  on the markers
